@@ -1,3 +1,3 @@
 # PGlife_Project
 
-Link: https://gauravjhapglife.000webhostapp.com/
+Link: https://pglife.000webhostapp.com/
